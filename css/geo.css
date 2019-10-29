@@ -1,0 +1,53 @@
+body {
+    background: #44465c;
+    font-family: 'Arial', sans-serif;
+}
+.header {
+    width: 920px;
+    height: 100px;
+    margin: 10px auto 0;
+    border: 2px solid #e6e6e6;
+    overflow: hidden;
+    color: #fff;
+}
+
+    .contact{
+        width: 300px;
+        float: right;
+        text-align: right;
+    }
+        .contact p{
+            margin: 43px 20px 0 0;
+            
+        }
+.logo{
+    width: 300px;
+    float: left;
+}
+    .logo h1{
+        margin: 31.5px 0 0 20px;
+    }
+
+.title h1 {
+  font-weight: 300;
+  font-size: 36px;
+  margin-bottom: 15px;
+}
+
+.title li {
+  list-style: none;
+  margin-bottom: 5px;
+}
+
+.title li span {
+}
+
+.you{
+    width: 500px;
+    margin: 0 auto;
+    color: #fff;
+}
+
+.you h2{
+    text-align: center;
+}
